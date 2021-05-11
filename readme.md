@@ -6,7 +6,7 @@ Folder contains
 1. csvfiles folder - All files used for loading the original tables
 2. finaltables folder - All the final tables exported as .csv
 3. python_scripts - python files used to generate data to be populated
-4. CS355_1801CS33.pdf Report containing the details of the project (32 pages)
+4. Project_Description.pdf - Report containing the details of the project (31 pages)
 
 ## Constructed Relation Schema of the Database
 
